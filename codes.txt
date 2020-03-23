@@ -1,0 +1,11 @@
+watsup developement
+
+1) source code.
+
+2) object code.
+
+3) modules.
+
+4) pdf code.
+
+5) image code.
