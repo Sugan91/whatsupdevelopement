@@ -11,3 +11,7 @@ watsup developement
 5) image code.
 
 6) attachement code.
+
+7) adding vedio calls.
+
+8) adding audio calls.
