@@ -15,3 +15,5 @@ watsup developement
 7) adding vedio calls.
 
 8) adding audio calls.
+
+9)adding status so that the users can plasy the train game.
